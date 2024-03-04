@@ -2,7 +2,9 @@
 
 👋 Hi there! I'm Kvba. 
 
-👀 I'm interested in web application development, and I code in C++ and Lua.
+👀 I'm interested in web application development.
+
+🖥️ Main code lang's I work with - ReactJS, NextJS, TypeScript, BunJS, NodeJS, C++, C#, Kotlin, Lua and SQL
 
 🌱 I'm currently learning more about cloud architecture and machine learning.
 

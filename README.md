@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kvba</h1>
-<br>👀 I'm interested in web application development.<br><br>🖥️ Main code lang's I work with - ReactJS, NextJS, TypeScript, BunJS, NodeJS, C++, C#, Kotlin, Lua and SQL<br><br>🌱 I'm currently learning more about cloud architecture and machine learning.<br><br>💞️ I'm looking to collaborate on innovative projects related to AI and web development.<br><br>📫 How to reach me: You can reach me at my email (kvbaofficialcontact@gmail.com).<br><br>🔭 In my free time, I love to make music, play tennis, and take photos.<br><br>📚 I believe in continuous learning and sharing knowledge.
+<br>👀 I'm interested in web application development.<br><br>🖥️ Main code lang's and framework's I work with - ReactJS, NextJS, TypeScript, BunJS, NodeJS, C++, C#, Kotlin, Lua and SQL<br><br>🌱 I'm currently learning more about cloud architecture and machine learning.<br><br>💞️ I'm looking to collaborate on innovative projects related to AI and web development.<br><br>📫 How to reach me: You can reach me at my email (kvbaofficialcontact@gmail.com).<br><br>🔭 In my free time, I love to make music, play tennis, and take photos.<br><br>📚 I believe in continuous learning and sharing knowledge.
 
 
 ## 🌐 Socials:
